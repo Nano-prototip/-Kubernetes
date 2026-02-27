@@ -8,14 +8,14 @@
 
 1. Создать Deployment с двумя контейнерами
 
-Манифест: [deployment.yaml](https://github.com/vladmgb/kuber-2.3/blob/main/deployment.yaml)
+Манифест: [deployment.yaml](https://github.com/Nano-prototip/-Kubernetes/blob/main/deployment.yaml)
 
 <img width="452" height="123" alt="image" src="https://github.com/user-attachments/assets/97f15e95-e360-4d56-b2b9-6ee30585d539" />
 
 
 3. Подключить веб-страницу через ConfigMap
 
- Манифест: [configmap-web.yaml](https://github.com/vladmgb/kuber-2.3/blob/main/configmap-web.yaml)  
+ Манифест: [configmap-web.yaml](https://github.com/Nano-prototip/-Kubernetes/blob/main/configmap-web.yaml)  
 
 <img width="422" height="135" alt="image" src="https://github.com/user-attachments/assets/aaafcecf-4661-41ca-8419-95b5492079a1" />
 
@@ -32,15 +32,15 @@
 
 Манифесты:
 
-[secret-tls.yaml](https://github.com/vladmgb/kuber-2.3/blob/main/secret-tls.yaml)
+[secret-tls.yaml](https://github.com/Nano-prototip/-Kubernetes/blob/main/secret-tls.yaml)
 
 <img width="385" height="46" alt="image" src="https://github.com/user-attachments/assets/9c9a2eca-28cf-47e7-9106-460996ec047d" />
 
-[ingress-tls.yaml](https://github.com/vladmgb/kuber-2.3/blob/main/ingress-tls.yaml)
+[ingress-tls.yaml](https://github.com/Nano-prototip/-Kubernetes/blob/main/ingress-tls.yaml)
 
 <img width="384" height="47" alt="image" src="https://github.com/user-attachments/assets/eddc9170-dd4b-44cf-8900-e88e76f1661c" />
 
-[myservice.yaml](https://github.com/vladmgb/kuber-2.3/blob/main/myservice.yaml)
+[myservice.yaml](https://github.com/Nano-prototip/-Kubernetes/blob/main/myservice.yaml)
 
 <img width="355" height="33" alt="image" src="https://github.com/user-attachments/assets/37729d99-e3d8-4c71-8a20-7e23f7816de0" />
 
@@ -55,12 +55,12 @@
 
 Манифесты:
 
-[role-pod-reader.yaml](https://github.com/vladmgb/kuber-2.3/blob/main/role-pod-reader.yaml)
+[role-pod-reader.yaml](https://github.com/Nano-prototip/-Kubernetes/blob/main/role-pod-reader.yaml)
 
 <img width="400" height="46" alt="image" src="https://github.com/user-attachments/assets/fddda464-aadd-4782-8ceb-86704fa6b1cc" />
 
 
-[rolebinding-developer.yaml](https://github.com/vladmgb/kuber-2.3/blob/main/rolebinding-developer.yaml)
+[rolebinding-developer.yaml](https://github.com/Nano-prototip/-Kubernetes/blob/main/rolebinding-developer.yaml)
 
 <img width="486" height="48" alt="image" src="https://github.com/user-attachments/assets/4898d695-4066-4183-9bf6-9cc19a4bea53" />
 
