@@ -68,6 +68,9 @@
 
 <img width="659" height="30" alt="image" src="https://github.com/user-attachments/assets/f02d8b87-a95f-49fd-be48-845178bc7d77" />
 
+![4974e](https://github.com/user-attachments/assets/3a64a366-24be-486e-a6f9-8f3d9f4cf12b)
+
+
 Скриншот проверки прав (kubectl get pods --as=developer)
 
 <img width="450" height="62" alt="image" src="https://github.com/user-attachments/assets/2e2a738e-152c-4a35-8c54-089c7308864a" />
